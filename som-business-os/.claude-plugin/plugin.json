@@ -1,0 +1,27 @@
+{
+  "name": "som-business-os",
+  "version": "0.8.0",
+  "description": "SOM Financial Hub, the School of Mastery Business OS plugin. Bundles Bec's framework as Claude skills, weekly sync, historical data upload (/som-upload-history), and a push-only connector that sends your numbers to your SOM portal via a single connection token.",
+  "author": {
+    "name": "Rebecca Miller, The School of Mastery",
+    "url": "https://theschoolofmastery.com.au"
+  },
+  "license": "Proprietary, SOM Members Only",
+  "commands": "./commands/",
+  "mcpServers": {
+    "som-dashboard": {
+      "type": "http",
+      "url": "https://som-rebecca.vercel.app/api/mcp"
+    }
+  },
+  "keywords": [
+    "som",
+    "school-of-mastery",
+    "clinic-owners",
+    "financial-coaching",
+    "weekly-check-in",
+    "phorest",
+    "skin-clinic",
+    "beauty-business"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "som-dashboard": {
+    "type": "http",
+    "url": "https://som-rebecca.vercel.app/api/mcp"
+  }
+}

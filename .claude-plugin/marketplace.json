@@ -1,0 +1,14 @@
+{
+  "name": "school-of-mastery",
+  "owner": {
+    "name": "Rebecca Miller, The School of Mastery",
+    "url": "https://theschoolofmastery.com.au"
+  },
+  "plugins": [
+    {
+      "name": "som-business-os",
+      "source": "./som-business-os",
+      "description": "School of Mastery Hub, Bec's framework as a Claude Co-Work plugin. Weekly sync, onboarding, and a secure push connector to your School of Mastery portal. Requires a member access code, inert without one."
+    }
+  ]
+}
