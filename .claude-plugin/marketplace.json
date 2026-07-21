@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "school-of-mastery",
   "owner": {
     "name": "Rebecca Miller, The School of Mastery",
@@ -8,6 +9,7 @@
     {
       "name": "som-business-os",
       "source": "./som-business-os",
+      "version": "0.8.2",
       "description": "School of Mastery Hub, Bec's framework as a Claude Co-Work plugin. Weekly sync, onboarding, and a secure push connector to your School of Mastery portal. Requires a member access code, inert without one."
     }
   ]
