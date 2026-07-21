@@ -1,6 +1,6 @@
 {
   "name": "som-business-os",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "SOM Financial Hub, the School of Mastery Business OS plugin. Bundles Bec's framework as Claude skills, weekly sync, historical data upload (/som-upload-history), and a push-only connector that sends your numbers to your SOM portal via a single connection token.",
   "author": {
     "name": "Rebecca Miller, The School of Mastery",
