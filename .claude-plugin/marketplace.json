@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "school-of-mastery",
+  "name": "som-hub",
   "owner": {
     "name": "Rebecca Miller, The School of Mastery",
     "url": "https://theschoolofmastery.com.au"
