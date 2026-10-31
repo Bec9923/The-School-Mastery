@@ -1,5 +1,5 @@
 ---
-description: Set your active 90-day sprint goal, name, start date, weekly revenue target.
+description: Update your 90-Day Sprint (the same as /som-update-90-day-sprint). Add this month's figures or change the targets for the quarter you choose.
 disable-model-invocation: false
 ---
 

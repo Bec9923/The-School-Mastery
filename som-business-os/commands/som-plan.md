@@ -1,5 +1,5 @@
 ---
-description: Work through The Clinic OS Planner with Claude, one step at a time, by voice or text. It captures your answers and tells you which commands save each part.
+description: Plan your 90-Day Sprint (the same as /som-plan-90-day-sprint). Work through The Clinic OS Planner, one step at a time.
 disable-model-invocation: false
 ---
 
